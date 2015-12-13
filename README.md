@@ -1,2 +1,2 @@
-# gpp-template
-g++ template
+# JOI
+JOI
