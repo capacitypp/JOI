@@ -1,8 +1,6 @@
 
-OBJS=Main.o
-
-all : $(OBJS)
-	$(CXX) -o Main $(LDFLAGS) $(OBJS)
+$@ : 
+	$(CXX) -o $@ $@.cpp
 
 clean : 
 	$(RM) *.o
