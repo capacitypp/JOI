@@ -1,0 +1,16 @@
+15 20
+.c..cc.c..c.c.c.cc..
+......ccc.c..cc.....
+cccc.cc..c.cc.ccc.c.
+c..........cc.c...cc
+....................
+c....c...cc...cccccc
+c.c.cc.......c.c..c.
+cc...ccc..c....c.c..
+......ccc.c.cc..c..c
+.c.......c.c.....c.c
+......cc.c.c....cc.c
+.....ccc..c.c.cc.cc.
+.c.......ccc..cc.c.c
+...c...cc.c.c....c..
+....cc.cc...cccc....
